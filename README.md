@@ -28,5 +28,7 @@ Serverless architecture allows you to focus on writing code without the need to 
   Observe the serverless execution and response.
 
 # Resources:
+
 https://docs.aws.amazon.com/lambda/latest/dg/welcome.html
+
 https://www.serverless.com/framework/docs/
